@@ -1,0 +1,28 @@
+#nome completo{
+    color: blue;
+    background-color: black;
+}
+
+
+#formacao academica {
+    color:purple;
+    background-color: white
+}
+ 
+
+#perfil profissional {
+    color:pink;
+    background-color: aqua
+}
+
+#competencias {
+    color:white;
+    background-color: aqua
+}
+      .container {
+            border: 2px;
+            padding: 20px;          
+            margin: 50px auto;      
+            max-width: 600px;      
+            text-align: center;    
+        }
